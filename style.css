@@ -173,7 +173,7 @@ nav #hire {
 
 #all {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     margin: 0px 40px;
     gap: 40px;
     padding-top: 80px;
@@ -452,3 +452,4 @@ li a:hover {
     color: rgb(255, 255, 255);
     z-index: 1000;
 }
+
