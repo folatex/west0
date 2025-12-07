@@ -179,7 +179,7 @@ nav #hire {
 }
 
 .minion {
-    width: 500px;
+    width: 530px;
     height: 400px;
     border-radius: 20px;
     background-color: #1e1e1e;
@@ -443,3 +443,4 @@ li a:hover {
     color: rgb(255, 255, 255);
     z-index: 1000;
 }
+
